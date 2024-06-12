@@ -1,8 +1,8 @@
 <div id="header" align="center">
-  <h2> Hello 👋 I'm João Carlos </h2>
+  <h2> Hello Word 👋</h2>
 </div>
 
-  <p align="center">I am a student and technology enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil.</p>
+<p align="center">I'm João Carlos, a student at UFRPE, passionate about technology, and pursuing a degree in Information Systems. 🚀🇧🇷</p>
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
